@@ -327,7 +327,7 @@
         <div class="main-content">
             <!-- Welcome Section -->
             <div class="welcome-section">
-                <h2 class="welcome-title">Welcome to Our Platform</h2>
+                <h2 class="welcome-title">Welcome /h2>
                 <p class="welcome-subtitle">Access your account or manage the system through our secure portal</p>
             </div>
 
